@@ -1,24 +1,5 @@
-# README
+## About
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A homemade meal web app to connect home cooks and customers. Home cooks can create meals and set up price while customers can order meals and give them reviews. Worked with five members and used GitHub to organize the workload.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Stack: Ruby on Rails, ERB, Bootstrap, HTML, CSS, PostgreSQL
